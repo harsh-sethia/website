@@ -1,6 +1,6 @@
 import React from "react"
 
-class NavbarComponent extends React.Component {
+class HeaderComponent extends React.Component {
     render = () =>
         <div>
             <h1 id = "harsh-sethia">
@@ -11,4 +11,4 @@ class NavbarComponent extends React.Component {
 
 }
 
-export default NavbarComponent
+export default HeaderComponent
